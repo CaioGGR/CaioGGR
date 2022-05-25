@@ -8,7 +8,7 @@
 - 😄 Pronouns: ele/dele
 - ⚡ Fun fact: Descobri que queria seguir carreira de TI de uma forma muito engraçada, eu trabalhava em uma papelaria, de forma informal, e eu meio que era o TI de lá. Até que um belo dia meu chefe perguntou pra mim que carreira eu queria seguir, e eu respondi Química (SIM! QUÍMICA!). Ele simplesmente virou pra mim e disse: "Não faz química não, segue carreira de TI, você é muito bom nisso". Portanto, parei e pensei... Tá bom!
 
-<div align="left">
+<div align="center">
   <a href="https://github.com/CaioGGR">
   <img height="140em" width="300" src="https://github-readme-stats.vercel.app/api?username=CaioGGR&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="140em" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioGGR&layout=compact&langs_count=7&theme=dark"/>
